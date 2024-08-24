@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+section{
+    margin: 20px;
+}
+
+.project{
+    height: 200px; /* Square Dimension */
+    width: 200px;
+    border: 2px solid #ccc;
+    margin: 10px;
+    display: inline-block; /* Align The Container Side By Side */
+    text-align: center;
+    line-height: 200px; /* Vertically Center The Text*/
+    
+}
+
+h1, h2{
+    color: #333;
+}
+
+
+#bio, #work{
+    background-color: #e9e9e9;
+    padding: 15px;
+    text-align: center;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+
+
+
